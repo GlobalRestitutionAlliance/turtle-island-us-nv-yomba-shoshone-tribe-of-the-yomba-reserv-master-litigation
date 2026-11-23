@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NV+YOMBA+SHOSHONE+TRIBE+OF+THE+YOMBA+RESERV",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NV+YOMBA+SHOSHONE+TRIBE+OF+THE+YOMBA+RESERV",
+  "title": "Federal Register - NV YOMBA SHOSHONE TRIBE OF THE YOMBA RESERV",
+  "fetched_at": "2026-11-23T18:19:49.379831Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "caf3f2b4f9c1447817a932fc974e24e1027f3b7781eb137606e4f18922c8f988",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
